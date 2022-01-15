@@ -53,13 +53,16 @@ Sou um programador apaixonado pelas melhores tecnologias de desenvolvimento de b
 #### :hammer: Frameworks
 
 <a href="#">
-      <img alt=".Net" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+      <img alt=".Net" src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </a>
 <a href="#">
-      <img alt="React" src="https://img.shields.io/badge/react-36B2C8.svg?style=for-the-badge&logo=react&logoColor=white" />
+      <img alt=".Net" src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </a>
 <a href="#">
-      <img alt="React Native" src="https://img.shields.io/badge/react Native-00D2F8.svg?style=for-the-badge&logo=react&logoColor=white" />
+      <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+</a>
+<a href="#">
+      <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </a>
 
 #### :wrench: Ferramentas e ambientes
