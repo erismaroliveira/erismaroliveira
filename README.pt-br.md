@@ -12,10 +12,10 @@
 -->
 
 <a href="https://www.linkedin.com/in/erismar-oliveirapro">
-      <img alt="Erismar Oliveira" src="https://img.shields.io/badge/-Erismar%20Oliveira-5659EB?style=for-the-badge&logo=Linkedin&logoColor=white" />
+      <img alt="Erismar Oliveira" src="https://img.shields.io/badge/Erismar%20Oliveira-0078D4?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="mailto:erismar.consultoria@gmail.com">
-      <img alt="Erismar Oliveira" src="https://img.shields.io/badge/-Gmail-5659EB?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:erismar.consultoria@gmail.com" />
+<a href="mailto:erismarpro@hotmail.com">
+      <img alt="Erismar Oliveira" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
 
 🔡 You can read about me in <b>english</b> [here](https://github.com/erismaroliveira/erismaroliveira#README).
@@ -67,6 +67,9 @@ Sou um programador apaixonado pelas melhores tecnologias de desenvolvimento de b
 
 #### :wrench: Ferramentas e ambientes
 
+<a href="#">
+      <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</a>
 <a href="#">
       <img alt="Nuget" src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" />
 </a>
