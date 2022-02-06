@@ -24,7 +24,7 @@
 
 I'm a programmer passionate about the best back-end and front-end development technologies. Fascinated by C# and JavaScript.
 
-![age](https://img.shields.io/badge/age-27-blue)
+![age](https://img.shields.io/badge/age-28-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/country-Brazil-3c9)
 
