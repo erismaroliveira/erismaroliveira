@@ -20,7 +20,7 @@
 
 🔡 Você pode ler sobre mim em <b>português</b> [aqui](https://github.com/erismaroliveira/erismaroliveira/blob/master/README.pt-br.md).
 
-#### Follow me on [instagram](https://www.instagram.com/erismardev/) for tips and code layouts
+#### Follow me on [instagram](https://www.instagram.com/escolabackend/) for tips and code layouts
 
 I'm a programmer passionate about the best back-end and front-end development technologies. Fascinated by C# and JavaScript.
 
