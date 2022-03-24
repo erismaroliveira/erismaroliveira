@@ -1,7 +1,7 @@
 ## Hi there, I'm Erismar👋
 
 <img
-	src="https://github.com/erismaroliveira/erismaroliveira/blob/main/ativos/dev_productivit.svg?raw=true"
+	src="https://github.com/erismaroliveira/erismaroliveira/blob/main/ativos/code.gif?raw=true"
 	width="400px"
 	height="390px"
 	align="right"
