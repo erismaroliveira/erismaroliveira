@@ -59,6 +59,9 @@ Sou um programador apaixonado pelas melhores tecnologias de desenvolvimento de b
       <img alt=".Net" src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </a>
 <a href="#">
+      <img alt="Blazor" src="https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white" />
+</a>
+<a href="#">
       <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </a>
 <a href="#">
