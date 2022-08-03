@@ -2,7 +2,7 @@
 
 <img
 	src="https://github.com/erismaroliveira/erismaroliveira/blob/main/ativos/code.gif?raw=true"
-	width="330px"
+	width="25vw"
 	height="250px"
 	align="right"
 />
