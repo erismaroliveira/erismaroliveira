@@ -2,8 +2,8 @@
 
 <img
 	src="https://github.com/erismaroliveira/erismaroliveira/blob/main/ativos/code.gif?raw=true"
-	width="400px"
-	height="390px"
+	width="330px"
+	height="300px"
 	align="right"
 />
 &nbsp;
