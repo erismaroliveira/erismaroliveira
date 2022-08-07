@@ -3,7 +3,7 @@
 <img
 	src="https://github.com/erismaroliveira/erismaroliveira/blob/main/ativos/code.gif?raw=true"
 	width="25vw"
-	height="250px"
+	height="220px"
 	align="right"
 />
 &nbsp;
