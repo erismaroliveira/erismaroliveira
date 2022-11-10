@@ -28,82 +28,28 @@ Sou um programador apaixonado pelas melhores tecnologias de desenvolvimento de b
 
 ---
 
-### :computer: Skills Técnicas
+### :computer: Skills Técnicas :speech_balloon:
 
-#### :speech_balloon: Linguagens
-
-<!--
-<img
-	src="https://github.com/erismaroliveira/erismaroliveira/blob/master/ativos/product_iteration.svg?raw=true"
-	width="400px"
-	height="390px"
-	align="right"
-/>
--->
-<a href="#">
-      <img alt="c#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="typescript" src="https://img.shields.io/badge/typescript-1E84D0.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-</a>
-
-#### :hammer: Frameworks
-
-<a href="#">
-      <img alt=".Net" src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</a>
-<a href="#">
-      <img alt=".Net" src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="Blazor" src="https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</a>
-
-#### :wrench: Ferramentas e ambientes
-
-<a href="#">
-      <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="Microsoft SQL SERVER" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="Nuget" src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="Nodejs" src="https://img.shields.io/badge/node-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-</a>
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Erismar-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Erismar-Net" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
+  <img align="center" alt="Erismar-VS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Erismar-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Erismar-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Erismar-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Erismar-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Erismar-Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Erismar-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Erismar-Blazor" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/blazor.svg">
+</div>
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erismaroliveira&show_icons=true&theme=blue-green&locale=pt-br" alt="erismaroliveira" /></p>
+<div align="center">
+  <a href="https://github.com/erismaroliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erismaroliveira&show_icons=true&theme=omni&nclude_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erismaroliveira&layout=compact&langs_count=7&theme=omni"/>
+</div>
 
 </br>
 </br>
