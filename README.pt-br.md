@@ -25,6 +25,7 @@ Sou um programador apaixonado pelas melhores tecnologias de desenvolvimento de b
 ![age](https://img.shields.io/badge/idade-28-blue)
 ![focus](https://img.shields.io/badge/foco-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/país-Brasil-3c9)
+![profile views](https://komarev.com/ghpvc/?username=erismaroliveira&color=blueviolet)
 
 ---
 
