@@ -11,7 +11,7 @@
 [![Site Badge](https://img.shields.io/badge/%20-site%20pessoal-blueviolet)](https://site/)
 -->
 
-<a href="https://www.linkedin.com/in/erismar-oliveirapro">
+<a href="https://www.linkedin.com/in/erismar-oliveira">
       <img alt="Erismar Oliveira" src="https://img.shields.io/badge/Erismar%20Oliveira-0078D4?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="mailto:erismarpro@hotmail.com">
@@ -20,11 +20,11 @@
 
 🔡 Você pode ler sobre mim em <b>português</b> [aqui](https://github.com/erismaroliveira/erismaroliveira/blob/master/README.pt-br.md).
 
-#### Follow me on [instagram](https://www.instagram.com/escolabackend/) for tips and code layouts
+#### Follow me on [instagram](https://www.instagram.com/erismardev/) for tips and code layouts
 
 I'm a programmer passionate about the best back-end and front-end development technologies. Fascinated by C# and JavaScript.
 
-![age](https://img.shields.io/badge/age-28-blue)
+![age](https://img.shields.io/badge/age-29-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/country-Brazil-3c9)
 ![profile views](https://komarev.com/ghpvc/?username=erismaroliveira&color=blueviolet)
