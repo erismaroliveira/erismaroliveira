@@ -11,7 +11,7 @@
 [![Site Badge](https://img.shields.io/badge/%20-site%20pessoal-blueviolet)](https://site/)
 -->
 
-<a href="https://www.linkedin.com/in/erismar-oliveirapro">
+<a href="https://www.linkedin.com/in/erismar-oliveira">
       <img alt="Erismar Oliveira" src="https://img.shields.io/badge/Erismar%20Oliveira-0078D4?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="mailto:erismarpro@hotmail.com">
@@ -22,7 +22,7 @@
 
 Sou um programador apaixonado pelas melhores tecnologias de desenvolvimento de back-end e front-end. Fascinado por C# e JavaScript.
 
-![age](https://img.shields.io/badge/idade-28-blue)
+![age](https://img.shields.io/badge/idade-29-blue)
 ![focus](https://img.shields.io/badge/foco-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/país-Brasil-3c9)
 ![profile views](https://komarev.com/ghpvc/?username=erismaroliveira&color=blueviolet)
