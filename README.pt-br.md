@@ -20,7 +20,7 @@
 
 🔡 You can read about me in <b>english</b> [here](https://github.com/erismaroliveira/erismaroliveira#README).
 
-Sou um programador apaixonado pelas melhores tecnologias de desenvolvimento de back-end e front-end. Fascinado por C#, Golang e JavaScript.
+Sou um programador apaixonado pelas melhores tecnologias de desenvolvimento de back-end e front-end. Fascinado por C#, Java e JavaScript.
 
 ![age](https://img.shields.io/badge/idade-29-blue)
 ![focus](https://img.shields.io/badge/foco-FullStack-brightgreen)
@@ -34,8 +34,8 @@ Sou um programador apaixonado pelas melhores tecnologias de desenvolvimento de b
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Erismar-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Erismar-Net" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
-  <img align="center" alt="Erismar-Go" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
-  <img align="center" alt="Erismar-Golang" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="Erismar-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Erismar-Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Erismar-VS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Erismar-VS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Erismar-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
