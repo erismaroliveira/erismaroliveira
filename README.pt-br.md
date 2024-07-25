@@ -1,4 +1,6 @@
-## Olá eu sou o Erismar👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&width=435&separator=%3C&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Erismar+Oliveira!%3CConsole.WriteLine(%22Hello+World!%22);)](https://git.io/typing-svg)
+
+---
 
 <img
 	src="https://github.com/erismaroliveira/erismaroliveira/blob/main/ativos/code.gif?raw=true"
@@ -29,7 +31,7 @@ Sou um programador apaixonado pelas melhores tecnologias de desenvolvimento de b
 
 ---
 
-### :computer: Skills Técnicas :speech_balloon:
+### :computer: Habilidades Técnicas :speech_balloon:
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Erismar-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
