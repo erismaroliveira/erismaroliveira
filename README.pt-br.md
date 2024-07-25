@@ -24,7 +24,7 @@
 
 Sou um programador apaixonado pelas melhores tecnologias de desenvolvimento de back-end e front-end. Fascinado por C#, Java e JavaScript.
 
-![age](https://img.shields.io/badge/idade-29-blue)
+![age](https://img.shields.io/badge/idade-30-blue)
 ![focus](https://img.shields.io/badge/foco-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/país-Brasil-3c9)
 ![profile views](https://komarev.com/ghpvc/?username=erismaroliveira&color=blueviolet)
