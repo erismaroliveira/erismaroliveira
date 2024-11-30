@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&width=435&separator=%3C&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Erismar+Oliveira!%3CConsole.WriteLine(%22Hello+World!%22);)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&width=435&separator=%3C&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Erismar+Oliveira!%3CConsole.WriteLine(%22Olá%2C+Mundo!%22);)](https://git.io/typing-svg)
 
 ---
 
@@ -53,8 +53,8 @@ Sou um programador apaixonado pelas melhores tecnologias de desenvolvimento de b
 
 <div align="center">
   <a href="https://github.com/erismaroliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erismaroliveira&show_icons=true&theme=omni&nclude_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erismaroliveira&hide=javascript,html,css,scss,blade,ejs,handlebars&layout=compact&langs_count=11&theme=omni&card_width=500"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erismaroliveira&show_icons=true&theme=omni&nclude_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erismaroliveira&hide=javascript,html,css,scss,blade,ejs,handlebars&layout=compact&langs_count=11&theme=omni&card_width=500&locale=pt-br"/>
 </div>
 
 </br>
