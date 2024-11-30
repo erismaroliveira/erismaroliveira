@@ -54,7 +54,7 @@ Sou um programador apaixonado pelas melhores tecnologias de desenvolvimento de b
 <div align="center">
   <a href="https://github.com/erismaroliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erismaroliveira&show_icons=true&theme=omni&nclude_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erismaroliveira&layout=compact&langs_count=7&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erismaroliveira&hide=javascript,html,css,scss,blade,ejs,handlebars&layout=compact&langs_count=11&theme=omni&card_width=500"/>
 </div>
 
 </br>
